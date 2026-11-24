@@ -10,3 +10,15 @@ site:
       default: true
       content:
         directory: ./docs
+    - type: space
+      key: space-changelog
+      title: Changelog
+      path: changelog
+      content:
+        directory: ./changelog
+    - type: space
+      key: space-mcp
+      title: MCP
+      path: mcp
+      content:
+        directory: ./mcp
