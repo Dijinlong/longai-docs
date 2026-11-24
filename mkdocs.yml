@@ -6,3 +6,6 @@ theme:
 nav:
   - Home: index.md
   - Seven checks before you buy: 7-checks-before-you-buy-llm-api-credits.md
+  - Refunds, top-ups and rate limits: refunds-topups-and-rate-limits.md
+  - Parameter matrix: model-parameter-matrix.md
+  - Settlement currency: settlement-currency.md
