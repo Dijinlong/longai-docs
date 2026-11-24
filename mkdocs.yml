@@ -1,0 +1,8 @@
+site_name: LONG AI Docs
+site_description: Notes and checks for buying LLM API credits from a third-party marketplace
+docs_dir: docs
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Seven checks before you buy: 7-checks-before-you-buy-llm-api-credits.md
