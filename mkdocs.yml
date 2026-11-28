@@ -15,3 +15,6 @@ nav:
   - Model aliases: model-aliases.md
   - Four compatibility probes: compatibility-probe.md
   - Streaming and time to first token: streaming-ttft.md
+  - Token accounting: token-accounting.md
+  - Cancelling a stream: cancel-and-billing.md
+  - Key hygiene: key-hygiene.md
